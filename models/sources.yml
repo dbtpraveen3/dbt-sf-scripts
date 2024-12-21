@@ -1,0 +1,8 @@
+sources:
+  - name: src_db
+    database: stg_db1
+    schema: raw_sc
+    tables:
+      - name: TABLE1
+      - name: TABLE2
+      - name: TABLE3

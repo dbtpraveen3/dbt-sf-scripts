@@ -1,0 +1,9 @@
+seeds:
+  - name: currency_dtsl
+    config:
+      column_types:
+        currency_code: VARCHAR    
+  - name: names
+    config:
+      column_types:
+        id: varchar(2)

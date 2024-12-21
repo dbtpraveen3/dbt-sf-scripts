@@ -1,0 +1,6 @@
+sources:
+  - name: src1
+    database: STAGE_DATABASE 
+    schema: RAW_SC
+    tables:
+      - name: prav   

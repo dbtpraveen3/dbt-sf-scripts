@@ -1,0 +1,5 @@
+seeds:
+  - name: account_dtls
+    config:
+      column_types:
+        account_number: varchar

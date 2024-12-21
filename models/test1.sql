@@ -1,0 +1,1 @@
+select current_database() db,current_schema() sc
